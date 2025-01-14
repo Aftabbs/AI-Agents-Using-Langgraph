@@ -21,8 +21,10 @@ This project delves into building and exploring **Agentic AI** using Langraph, O
 4. **Human in the Loop**  
    Facilitating human interventions to guide, correct, or collaborate with agents when needed.
 
-5. **Essay Writer**  
+5. **Essay Writer**
    A specialized agent designed to draft essays, leveraging Langraph’s robust text generation capabilities.
+
+   ![image](https://github.com/user-attachments/assets/0b2a02cf-979c-4d89-9522-796bbbb04330)
 
 ---
 
