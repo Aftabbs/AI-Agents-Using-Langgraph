@@ -7,7 +7,7 @@ This project delves into building and exploring **Agentic AI** using Langraph, O
     
 --- 
   
-## Features Explored 
+## Features Explored  
 
 1. **ReAct Agent**  
    A combination of reasoning and acting, enabling agents to solve complex tasks by integrating decision-making with action.
