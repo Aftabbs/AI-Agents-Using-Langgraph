@@ -1,6 +1,6 @@
 # AI Agents with Langraph: Exploring Agentic AI
 
-![image](https://github.com/user-attachments/assets/2df725a4-ec76-41d4-8ace-68f189cd79ab)
+![image](https://github.com/user-attachments/assets/2df725a4-ec76-41d4-8ace-68f189cd79ab) 
 
 
 This project delves into building and exploring **Agentic AI** using Langraph, OpenAI, and Tavily (a fast internet search API provider). Through various tools and methodologies, the project aims to push the boundaries of AI autonomy, persistence, and usability in real-world scenarios.
