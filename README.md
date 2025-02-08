@@ -6,7 +6,7 @@
 This project delves into building and exploring **Agentic AI** using Langraph, OpenAI, and Tavily (a fast internet search API provider). Through various tools and methodologies, the project aims to push the boundaries of AI autonomy, persistence, and usability in real-world scenarios.
     
 --- 
- 
+  
 ## Features Explored 
 
 1. **ReAct Agent**  
